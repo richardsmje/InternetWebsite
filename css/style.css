@@ -18,8 +18,8 @@ section{
 }
 
 header{
-	background-color: white;
-	color: black; /* more readable on an orange background */
+	background-color: Gold;
+	color: white; /* more readable on an orange background */
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
